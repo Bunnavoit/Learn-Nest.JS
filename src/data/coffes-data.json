@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Bolivian Coffee",
+    "brand": "Nescafe",
+    "flavors": ["chocolated", "vanilla"]
+  },
+  {
+    "id": 2,
+    "name": "Colombian Coffee",
+    "brand": "Nescafe",
+    "flavors": ["chocolated", "vanilla", "caramel"]
+  },
+  {
+    "id": 3,
+    "name": "Ethiopian Coffee",
+    "brand": "Nescafe",
+    "flavors": ["chocolated", "vanilla", "caramel", "fruity"]
+  },
+  {
+    "id": 4,
+    "name": "Guatemalan Coffee",
+    "brand": "Starbucks",
+    "flavors": ["nutty", "chocolated"]
+  },
+  {
+    "id": 5,
+    "name": "Kenyan Coffee",
+    "brand": "Lavazza",
+    "flavors": ["berry", "fruity", "bright"]
+  },
+  {
+    "id": 6,
+    "name": "Vietnamese Coffee",
+    "brand": "Trung Nguyen",
+    "flavors": ["strong", "sweetened condensed milk"]
+  },
+  {
+    "id": 7,
+    "name": "Sumatra Coffee",
+    "brand": "Starbucks",
+    "flavors": ["earthy", "spicy"]
+  },
+  {
+    "id": 8,
+    "name": "Brazilian Coffee",
+    "brand": "Nescafe",
+    "flavors": ["nutty", "caramel"]
+  },
+  {
+    "id": 9,
+    "name": "Costa Rican Coffee",
+    "brand": "Peet's Coffee",
+    "flavors": ["bright", "citrus"]
+  },
+  {
+    "id": 10,
+    "name": "Honduran Coffee",
+    "brand": "Folgers",
+    "flavors": ["smooth", "chocolated"]
+  },
+  {
+    "id": 11,
+    "name": "Panamanian Coffee",
+    "brand": "Geisha",
+    "flavors": ["floral", "fruity"]
+  },
+  {
+    "id": 12,
+    "name": "Mexican Coffee",
+    "brand": "Cafe Bustelo",
+    "flavors": ["cinnamon", "nutty"]
+  },
+  {
+    "id": 13,
+    "name": "Indian Coffee",
+    "brand": "Tata Coffee",
+    "flavors": ["spicy", "earthy"]
+  },
+  {
+    "id": 14,
+    "name": "Peruvian Coffee",
+    "brand": "Green Mountain",
+    "flavors": ["mild", "bright", "chocolated"]
+  },
+  {
+    "id": 15,
+    "name": "Yemeni Coffee",
+    "brand": "Mocha",
+    "flavors": ["chocolated", "winey"]
+  },
+  {
+    "id": 16,
+    "name": "Rwandan Coffee",
+    "brand": "Intelligentsia",
+    "flavors": ["fruity", "sweet"]
+  },
+  {
+    "id": 17,
+    "name": "Tanzanian Coffee",
+    "brand": "Kicking Horse",
+    "flavors": ["berry", "bright", "citrus"]
+  },
+  {
+    "id": 18,
+    "name": "Papua New Guinea Coffee",
+    "brand": "Peet's Coffee",
+    "flavors": ["earthy", "fruity"]
+  },
+  {
+    "id": 19,
+    "name": "Jamaican Blue Mountain",
+    "brand": "Blue Mountain Coffee",
+    "flavors": ["mild", "smooth", "nutty"]
+  },
+  {
+    "id": 20,
+    "name": "Hawaiian Kona Coffee",
+    "brand": "Royal Kona",
+    "flavors": ["buttery", "chocolated", "floral"]
+  }
+]
