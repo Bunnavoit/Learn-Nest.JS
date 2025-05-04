@@ -19,14 +19,9 @@ import { PaginationQueryDto } from './dto/pagination-query.dto';
 export class CoffeController {
   constructor(private readonly coffeService: CoffeService) {}
 
-  // @Get()
-  // findAll() {
-  //   return this.coffeService.findAll();
-  // }
-  @Get()
   @Get()
   findAll(@Query() paginationQuery: PaginationQueryDto) {
-    return this.coffeService.findAll(paginationQuery); // ✅ Just call the service
+    return this.coffeService.findAll(paginationQuery);
   }
 
   @Get(':id')
